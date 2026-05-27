@@ -1,5 +1,5 @@
 // --- 1. Variables & Elements ---
-let focusTime = 25*60; // 25 minutes in seconds
+let focusTime = 25*60 // 25 minutes in seconds
 let breakTime = 5*60;  // 5 minutes in seconds
 let timeLeft = focusTime;
 let isFocusMode = true;
